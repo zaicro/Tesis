@@ -1,0 +1,2 @@
+INSERT INTO [dbo].[divisiones] (id_divisiones,dsbldivisiones,dplydivisiones,nombre,descripcion,activo) VALUES (1,0,0,'Ad Hoc','...',1)
+INSERT INTO [dbo].[divisiones] (id_divisiones,dsbldivisiones,dplydivisiones,nombre,descripcion,activo) VALUES (2,0,0,'Retail','...',1)
